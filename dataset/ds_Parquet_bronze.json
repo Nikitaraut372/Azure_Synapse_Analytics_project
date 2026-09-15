@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "orderDay0.parquet",
+				"fileName": "orderday1.parquet",
 				"folderPath": "sales",
 				"fileSystem": "bronze"
 			},
